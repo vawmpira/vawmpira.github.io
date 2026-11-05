@@ -4,7 +4,7 @@
 
 Enter your 9-digit student ID to instantly find your exams, including their dates, times, rooms, and course details. No digging through PDFs. No manually searching seating charts. Just your schedule.
 
-**[Open Midterm Finder](https://oghost2250.github.io/midterm-schedule/)**
+**[Open Midterm Finder](https://vawmpira.github.io/)**
 
 Midterm Finder is a lightweight, dependency-free web app built using Zewail City's official Fall 2026 midterm schedule and published seating charts.
 
