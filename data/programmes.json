@@ -1,0 +1,119 @@
+{
+ "csai": {
+  "label": "Computational Science & AI — first year",
+  "expected": 6,
+  "core": [
+   "MATH 103",
+   "CSAI 101",
+   "CSAI 102",
+   "CSAI 252"
+  ],
+  "optionGroups": [
+   {
+    "id": "english",
+    "label": "English",
+    "hint": "Pick the English level on your registration.",
+    "default": "ENGL 003",
+    "options": [
+     "ENGL 003",
+     "ENGL 004"
+    ]
+   },
+   {
+    "id": "humanities",
+    "label": "Ethics or social issues",
+    "hint": "Pick the humanity subject on your registration.",
+    "default": "SCH 210",
+    "options": [
+     "SCH 210",
+     "SCH 263"
+    ]
+   }
+  ],
+  "options": [
+   "ENGL 003",
+   "ENGL 004",
+   "SCH 210",
+   "SCH 263"
+  ]
+ },
+ "eng": {
+  "label": "Engineering — first year",
+  "expected": 6,
+  "core": [
+   "MATH 101",
+   "CHEM 103",
+   "PHYS 105",
+   "ENGR 102",
+   "ENGR 121",
+   "CSCI 101"
+  ],
+  "optionGroups": [
+   {
+    "id": "english",
+    "label": "English",
+    "hint": "Pick the English level on your registration.",
+    "default": "ENGL 003",
+    "options": [
+     "ENGL 003",
+     "ENGL 004"
+    ]
+   },
+   {
+    "id": "humanities",
+    "label": "Ethics or social issues",
+    "hint": "Pick the humanity subject on your registration.",
+    "default": "SCH 210",
+    "options": [
+     "SCH 210",
+     "SCH 263"
+    ]
+   }
+  ],
+  "options": [
+   "ENGL 003",
+   "ENGL 004",
+   "SCH 210",
+   "SCH 263"
+  ]
+ },
+ "csai_upper": {
+  "label": "Computational Science & AI — upper year",
+  "expected": 6,
+  "core": [
+   "CSAI 201",
+   "CSAI 202",
+   "CSAI 205",
+   "DSAI 203",
+   "MATH 105"
+  ],
+  "optionGroups": [
+   {
+    "id": "english",
+    "label": "English",
+    "hint": "Pick the English level on your registration.",
+    "default": "ENGL 003",
+    "options": [
+     "ENGL 003",
+     "ENGL 004"
+    ]
+   },
+   {
+    "id": "humanities",
+    "label": "Ethics or social issues",
+    "hint": "Pick the humanity subject on your registration.",
+    "default": "SCH 210",
+    "options": [
+     "SCH 210",
+     "SCH 263"
+    ]
+   }
+  ],
+  "options": [
+   "ENGL 003",
+   "ENGL 004",
+   "SCH 210",
+   "SCH 263"
+  ]
+ }
+}

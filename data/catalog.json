@@ -1,0 +1,2767 @@
+{
+ "BCSE 301": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 9,
+  "time": "11:00-12:00",
+  "title": "Database Management and Applications"
+ },
+ "BENT 301": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 16,
+  "time": "16:00-17:00",
+  "title": "Advanced and Corporate Entrepreneurship"
+ },
+ "BENT 305": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 15,
+  "time": "13:30-14:30",
+  "title": "Entrepreneurial Finance"
+ },
+ "BGEN 101": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 130,
+  "time": "16:00-17:00",
+  "title": "Business Mathematics"
+ },
+ "BGEN 110": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 48,
+  "time": "13:30-14:30",
+  "title": "Foundations of Statistical Inference"
+ },
+ "BGEN 201": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 11,
+  "time": "16:00-17:00",
+  "title": "Data Analytics"
+ },
+ "BGEN 210": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 53,
+  "time": "09:45-10:45",
+  "title": "Programming"
+ },
+ "BIOL 101": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 84,
+  "time": "11:00-12:00",
+  "title": "Biology I"
+ },
+ "BLAW 201": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 65,
+  "time": "14:45-15:45",
+  "title": "Business Law fundamentals"
+ },
+ "BLAW 301": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 17,
+  "time": "16:00-17:00",
+  "title": "Negotiations and Dispute Settlement"
+ },
+ "BMS 201": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 34,
+  "time": "08:30-09:30",
+  "title": "PGheonteornailc Msicrobiology"
+ },
+ "BMS 202": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 37,
+  "time": "14:45-15:45",
+  "title": "Cell Biology"
+ },
+ "BMS 301": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 14,
+  "time": "12:15-13:15",
+  "title": "Molecular Biology"
+ },
+ "BMS 304": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 25,
+  "time": "13:30-14:30",
+  "title": "Biomedical Scientific Ethics & Safety"
+ },
+ "BMS 321": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "08:30-09:30",
+  "title": "Programming for Computational Biology"
+ },
+ "BMS 325": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F014-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "13:30-14:30",
+  "title": "Clinical Sciences"
+ },
+ "BMS 327": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 6,
+  "time": "16:00-17:00",
+  "title": "Neurobiology and Practicum"
+ },
+ "BMS 332": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 19,
+  "time": "14:45-15:45",
+  "title": "Drug Discovery & Development"
+ },
+ "BMS 333": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "09:45-10:45",
+  "title": "Drug Design & Computational Chemistry"
+ },
+ "BMS 344": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 11,
+  "time": "08:30-09:30",
+  "title": "Human Embryology"
+ },
+ "BMS 404": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 34,
+  "time": "13:30-14:30",
+  "title": "Biostatistics"
+ },
+ "BMS 405": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "09:45-10:45",
+  "title": "Medicinal & Biological Chemistry"
+ },
+ "BMS 428": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "08:30-09:30",
+  "title": "Pathology"
+ },
+ "BMS 430": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "12:15-13:15",
+  "title": "Advanced Strategies in Organic Synthesis"
+ },
+ "BMS 434": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G009-B"
+  ],
+  "sections": 1,
+  "students": 27,
+  "time": "13:30-14:30",
+  "title": "Epigenetics in Health and Disease"
+ },
+ "BMS 435": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 12,
+  "time": "12:15-13:15",
+  "title": "Legal Aspects in Drug Desig Development"
+ },
+ "BMS 459": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 26,
+  "time": "16:00-17:00",
+  "title": "Pathogens & Host Defense"
+ },
+ "BMS 474": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "16:00-17:00",
+  "title": "Genomics and Data Sciences"
+ },
+ "BMS 475": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "11:00-12:00",
+  "title": "Bio Chemistry of Hormones and Vitamins"
+ },
+ "BMS 477": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 30,
+  "time": "16:00-17:00",
+  "title": "The Human Genome & Disease"
+ },
+ "BTEM 301": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 15,
+  "time": "12:15-13:15",
+  "title": "Management of Innovation"
+ },
+ "CHEM 101": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 82,
+  "time": "11:00-12:00",
+  "title": "Chemistry I"
+ },
+ "CHEM 103": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ],
+  "sections": 4,
+  "students": 367,
+  "time": "16:00-17:00",
+  "title": "Introduction to Chemistry for Engineers"
+ },
+ "CHEM 201": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F026-B1"
+  ],
+  "sections": 1,
+  "students": 40,
+  "time": "12:15-13:15",
+  "title": "Organic Chemistry"
+ },
+ "CIE 205": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G033-B"
+  ],
+  "sections": 2,
+  "students": 92,
+  "time": "08:30-09:30",
+  "title": "Data Structures and Algorithm Analysis"
+ },
+ "CIE 206": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 2,
+  "students": 96,
+  "time": "08:30-09:30",
+  "title": "Database Management System"
+ },
+ "CIE 227": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 2,
+  "students": 97,
+  "time": "09:45-10:45",
+  "title": "Signals and Systems"
+ },
+ "CIE 237": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 18,
+  "time": "11:00-12:00",
+  "title": "Probability and Stochastic Processes"
+ },
+ "CIE 239": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 2,
+  "students": 109,
+  "time": "08:30-09:30",
+  "title": "Digital Design and Computer Architecture"
+ },
+ "CIE 302": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 57,
+  "time": "09:45-10:45",
+  "title": "Operating Systems"
+ },
+ "CIE 317": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 65,
+  "time": "08:30-09:30",
+  "title": "Machine Learning"
+ },
+ "CIE 318": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 62,
+  "time": "11:00-12:00",
+  "title": "Control Systems"
+ },
+ "CIE 328": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 67,
+  "time": "12:15-13:15",
+  "title": "Electromagnetic Fields and Waves I"
+ },
+ "CIE 337": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G033-B"
+  ],
+  "sections": 1,
+  "students": 60,
+  "time": "08:30-09:30",
+  "title": "Communications Theory and Systems"
+ },
+ "CIE 404": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 63,
+  "time": "13:30-14:30",
+  "title": "Cloud Computing Technology"
+ },
+ "CIE 427": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 54,
+  "time": "14:45-15:45",
+  "title": "Big Data Analytics"
+ },
+ "CIE 448": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 41,
+  "time": "14:45-15:45",
+  "title": "IoT Systems Engineering"
+ },
+ "CIE 452": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 17,
+  "time": "09:45-10:45",
+  "title": "Advanced Computer Architecture"
+ },
+ "CIE 455": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 48,
+  "time": "14:45-15:45",
+  "title": "Neural Networks and Deep Learning"
+ },
+ "CIE 478": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 40,
+  "time": "09:45-10:45",
+  "title": "Advanced Wireless Communication Systems"
+ },
+ "CIE 481": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 56,
+  "time": "13:30-14:30",
+  "title": "Information Security and Encryption"
+ },
+ "CSAI 100": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 15,
+  "time": "11:00-12:00",
+  "title": "Intro to Computational Science and AI"
+ },
+ "CSAI 101": {
+  "also": [
+   "CSAI 111"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B",
+   "G025-B"
+  ],
+  "sections": 8,
+  "students": 540,
+  "time": "13:30-14:30",
+  "title": "Fundamentals of Programming"
+ },
+ "CSAI 102": {
+  "also": [
+   "CSAI 112"
+  ],
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "F005-F",
+   "G006-B",
+   "G011-B"
+  ],
+  "sections": 8,
+  "students": 530,
+  "time": "11:00-12:00",
+  "title": "Digital Logic and Computer Architecture"
+ },
+ "CSAI 201": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G006-B",
+   "G008-B",
+   "G011-B",
+   "G019-B"
+  ],
+  "sections": 4,
+  "students": 458,
+  "time": "13:30-14:30",
+  "title": "Data Structures"
+ },
+ "CSAI 202": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F005-F",
+   "F013-E",
+   "F015-D",
+   "G033-B"
+  ],
+  "sections": 3,
+  "students": 454,
+  "time": "13:30-14:30",
+  "title": "Introduction to Database Systems"
+ },
+ "CSAI 203": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 3,
+  "students": 269,
+  "time": "16:00-17:00",
+  "title": "Introduction to Software Engineering"
+ },
+ "CSAI 205": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ],
+  "sections": 3,
+  "students": 366,
+  "time": "08:30-09:30",
+  "title": "Fundamentals of Circuits and Electronics"
+ },
+ "CSAI 251": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G036-B"
+  ],
+  "sections": 1,
+  "students": 36,
+  "time": "16:00-17:00",
+  "title": "Algorithm Design and Analysis"
+ },
+ "CSAI 252": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B",
+   "G025-B"
+  ],
+  "sections": 4,
+  "students": 528,
+  "time": "08:30-09:30",
+  "title": "Introduction to Computer Networks"
+ },
+ "CSAI 253": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 34,
+  "time": "11:00-12:00",
+  "title": "Machine Learning"
+ },
+ "CSAI 301": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "S006-F"
+  ],
+  "sections": 1,
+  "students": 170,
+  "time": "11:00-12:00",
+  "title": "Artificial Intelligence"
+ },
+ "CSAI 302": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 49,
+  "time": "14:45-15:45",
+  "title": "Advanced Database Systems"
+ },
+ "CSCI 101": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G008-B",
+   "G033-B",
+   "G035-B",
+   "G036-B",
+   "G038-B"
+  ],
+  "sections": 5,
+  "students": 408,
+  "time": "08:30-09:30",
+  "title": "Introduction to Computer Science"
+ },
+ "DSAI 104": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G004-C"
+  ],
+  "sections": 1,
+  "students": 26,
+  "time": "13:30-14:30",
+  "title": "Knowledge Representation and Reasoning"
+ },
+ "DSAI 203": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G035-B"
+  ],
+  "sections": 3,
+  "students": 339,
+  "time": "14:45-15:45",
+  "title": "Data Integration and Visualization"
+ },
+ "DSAI 307": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 117,
+  "time": "14:45-15:45",
+  "title": "Statistical Inference"
+ },
+ "DSAI 308": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 87,
+  "time": "09:45-10:45",
+  "title": "Deep Learning"
+ },
+ "DSAI 353": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G009-B"
+  ],
+  "sections": 1,
+  "students": 30,
+  "time": "08:30-09:30",
+  "title": "Natural language processing"
+ },
+ "DSAI 402": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 96,
+  "time": "08:30-09:30",
+  "title": "Reinforcement Learning"
+ },
+ "DSAI 403": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 91,
+  "time": "11:00-12:00",
+  "title": "Nature inspired computation"
+ },
+ "DSAI 406": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 14,
+  "time": "14:45-15:45",
+  "title": "Machine Learning Eng for Production"
+ },
+ "DSAI 413": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 31,
+  "time": "16:00-17:00",
+  "title": "Multimedia Analytics"
+ },
+ "DSAI 427": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 17,
+  "time": "11:00-12:00",
+  "title": "Big Data Analytics"
+ },
+ "DSAI 456": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 96,
+  "time": "12:15-13:15",
+  "title": "Speech Recognition"
+ },
+ "ECON 101": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 130,
+  "time": "12:15-13:15",
+  "title": "Principles of Economics"
+ },
+ "ECON 310": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 26,
+  "time": "14:45-15:45",
+  "title": "Intermediate Microeconomic Theory"
+ },
+ "ECON 315": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 25,
+  "time": "16:00-17:00",
+  "title": "Intermediate Macroeconomic Theory"
+ },
+ "ENGL 003": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 12,
+  "students": 263,
+  "time": "12:15-13:15",
+  "title": "Remedial English 2"
+ },
+ "ENGL 004": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G006-B",
+   "G008-B",
+   "G011-B",
+   "G019-B",
+   "G025-B"
+  ],
+  "sections": 21,
+  "students": 602,
+  "time": "12:15-13:15",
+  "title": "Remedial English 3"
+ },
+ "ENGR 102": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ],
+  "sections": 4,
+  "students": 370,
+  "time": "16:00-17:00",
+  "title": "Introduction to Engineering Design"
+ },
+ "ENGR 105": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 24,
+  "time": "08:30-09:30",
+  "title": "Engineering Thermodynamics"
+ },
+ "ENGR 121": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ],
+  "sections": 4,
+  "students": 379,
+  "time": "14:45-15:45",
+  "title": "Engineering Drawing"
+ },
+ "ENGR 201": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 21,
+  "time": "11:00-12:00",
+  "title": "Circuits and Electronics"
+ },
+ "ENGR 207": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 2,
+  "students": 75,
+  "time": "14:45-15:45",
+  "title": "Fluid Mechanics"
+ },
+ "ENGR 346": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F006-D"
+  ],
+  "sections": 1,
+  "students": 41,
+  "time": "16:00-17:00",
+  "title": "Heat Transfer"
+ },
+ "ENV 204": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F013-E"
+  ],
+  "sections": 1,
+  "students": 19,
+  "time": "16:00-17:00",
+  "title": "Environmental Engineering Chemistry"
+ },
+ "ENV 207": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 15,
+  "time": "11:00-12:00",
+  "title": "Material and Energy Balances"
+ },
+ "ENV 224": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 18,
+  "time": "13:30-14:30",
+  "title": "Ecology for Environmental Engineers"
+ },
+ "ENV 302": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F014-E"
+  ],
+  "sections": 1,
+  "students": 3,
+  "time": "16:00-17:00",
+  "title": "Environmental Laws and Policies"
+ },
+ "ENV 306": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "16:00-17:00",
+  "title": "Engineering Hydrology"
+ },
+ "ENV 320": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "13:30-14:30",
+  "title": "Water Treatment Engineering"
+ },
+ "ENV 323": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F013-E"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "11:00-12:00",
+  "title": "Municipal Solid Waste Management"
+ },
+ "ENV 328": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 3,
+  "time": "12:15-13:15",
+  "title": "Sampling & Monitor of Environmental Poll"
+ },
+ "ENV 411": {
+  "also": [
+   "ENV 510"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 15,
+  "time": "13:30-14:30",
+  "title": "Process Synthesis and Simulation"
+ },
+ "ENV 434": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "16:00-17:00",
+  "title": "Safety & Risk Analysis"
+ },
+ "ENV 440": {
+  "also": [
+   "ENV 520"
+  ],
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 17,
+  "time": "11:00-12:00",
+  "title": "Advanced Separation Processes / Separation Processes"
+ },
+ "ENV 454": {
+  "also": [
+   "ENV 524"
+  ],
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 2,
+  "students": 15,
+  "time": "14:45-15:45",
+  "title": "Life Cycle Assessment"
+ },
+ "ENV 458": {
+  "also": [
+   "ENV 558"
+  ],
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 2,
+  "students": 8,
+  "time": "16:00-17:00",
+  "title": "Energy from Biomass and Waste"
+ },
+ "ENV 506": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F014-E"
+  ],
+  "sections": 1,
+  "students": 1,
+  "time": "11:00-12:00",
+  "title": "Water Desalination"
+ },
+ "ENV 527": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 12,
+  "time": "16:00-17:00",
+  "title": "Optimal/Appropriate Technology"
+ },
+ "FINC 101": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 131,
+  "time": "14:45-15:45",
+  "title": "Financial Accounting"
+ },
+ "FINC 201": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 18,
+  "time": "14:45-15:45",
+  "title": "Principles of Finance"
+ },
+ "FINC 305": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 26,
+  "time": "12:15-13:15",
+  "title": "Financial Reporting"
+ },
+ "FINC 310": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 25,
+  "time": "12:15-13:15",
+  "title": "Corporate Finance"
+ },
+ "FINC 401": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "12:15-13:15",
+  "title": "Investment Theory"
+ },
+ "FINC 405": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "13:30-14:30",
+  "title": "Derivative Securities"
+ },
+ "FINC 410": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "16:00-17:00",
+  "title": "Fixed Income Securities"
+ },
+ "IT 205": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 23,
+  "time": "16:00-17:00",
+  "title": "Enterprise System Architecture"
+ },
+ "IT 308": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 4,
+  "time": "16:00-17:00",
+  "title": "Cloud Computing Architecture"
+ },
+ "IT 402": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 6,
+  "time": "13:30-14:30",
+  "title": "Fundamentals of Cybersecurity&Encryption"
+ },
+ "IT 411": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 11,
+  "time": "08:30-09:30",
+  "title": "Enterprise Resources Planning"
+ },
+ "ITNS 301": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 3,
+  "time": "14:45-15:45",
+  "title": "Network Administration"
+ },
+ "ITNS 403": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "08:30-09:30",
+  "title": "Storage Area Networks"
+ },
+ "ITNS 404": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 9,
+  "time": "14:45-15:45",
+  "title": "Net Performance Monitoring&Trbl-shooting"
+ },
+ "ITNS 406": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 9,
+  "time": "14:45-15:45",
+  "title": "Network Resilience and Hardening"
+ },
+ "MATH 101": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ],
+  "sections": 5,
+  "students": 489,
+  "time": "11:00-12:00",
+  "title": "Calculus I"
+ },
+ "MATH 102": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 63,
+  "time": "16:00-17:00",
+  "title": "Calculus II"
+ },
+ "MATH 103": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ],
+  "sections": 6,
+  "students": 488,
+  "time": "08:30-09:30",
+  "title": "Calculus for Computational Science"
+ },
+ "MATH 104": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "S006-F"
+  ],
+  "sections": 2,
+  "students": 137,
+  "time": "16:00-17:00",
+  "title": "Linear Algebra"
+ },
+ "MATH 105": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ],
+  "sections": 4,
+  "students": 496,
+  "time": "12:15-13:15",
+  "title": "Probability and Statistics"
+ },
+ "MATH 201": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 3,
+  "students": 262,
+  "time": "09:45-10:45",
+  "title": "Linear Algebra and Vector Geometry"
+ },
+ "MATH 202": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 2,
+  "students": 188,
+  "time": "11:00-12:00",
+  "title": "Ordinary Differential Equations"
+ },
+ "MATH 203": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 29,
+  "time": "13:30-14:30",
+  "title": "Introduction to Discrete Mathematics"
+ },
+ "MATH 205": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 55,
+  "time": "08:30-09:30",
+  "title": "Discrete Mathematics for CS"
+ },
+ "MATH 301": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 37,
+  "time": "12:15-13:15",
+  "title": "Probability and Statistics"
+ },
+ "MATH 302": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 2,
+  "students": 96,
+  "time": "09:45-10:45",
+  "title": "Partial Differential Equations"
+ },
+ "MATH 303": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 113,
+  "time": "16:00-17:00",
+  "title": "Linear and Non-linear Programming for CS"
+ },
+ "MATH 306": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 49,
+  "time": "08:30-09:30",
+  "title": "Numerical Analysis"
+ },
+ "MATH 404": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 76,
+  "time": "08:30-09:30",
+  "title": "Linear and Non-linear Programming"
+ },
+ "MATSCI 201": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F013-E"
+  ],
+  "sections": 1,
+  "students": 18,
+  "time": "16:00-17:00",
+  "title": "Fundamental of Materials Sci and Engr"
+ },
+ "MATSCI 425": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F013-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "11:00-12:00",
+  "title": "Main Group and Transition Metals CHEM"
+ },
+ "MGMT 101": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 136,
+  "time": "12:15-13:15",
+  "title": "Principles of Management"
+ },
+ "MGMT 201": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 60,
+  "time": "09:45-10:45",
+  "title": "Human Resources Management"
+ },
+ "MGMT 301": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 12,
+  "time": "09:45-10:45",
+  "title": "Project Management 2"
+ },
+ "MKTG 101": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 122,
+  "time": "16:00-17:00",
+  "title": "Principles of Marketing"
+ },
+ "MKTG 301": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 15,
+  "time": "11:00-12:00",
+  "title": "Market research and consumer behavior"
+ },
+ "NANENG 202": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 37,
+  "time": "08:30-09:30",
+  "title": "Digital Logic"
+ },
+ "NANENG 203": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 36,
+  "time": "16:00-17:00",
+  "title": "Electric Circuits"
+ },
+ "NANENG 301": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 27,
+  "time": "13:30-14:30",
+  "title": "Micro/Nano Fabrication Techniques"
+ },
+ "NANENG 307": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "11:00-12:00",
+  "title": "Physics of Electronic Materials"
+ },
+ "NANENG 308": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G009-B"
+  ],
+  "sections": 1,
+  "students": 28,
+  "time": "13:30-14:30",
+  "title": "Solid State Devices"
+ },
+ "NANENG 323": {
+  "also": [
+   "NANENG 421"
+  ],
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 2,
+  "students": 30,
+  "time": "08:30-09:30",
+  "title": "Analog Integrated Circuit Design"
+ },
+ "NANENG 335": {
+  "also": [
+   "NANOSC 413"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 2,
+  "students": 40,
+  "time": "11:00-12:00",
+  "title": "Introduction to Photonics / Photonics & Laser Physics"
+ },
+ "NANENG 410": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 49,
+  "time": "16:00-17:00",
+  "title": "Real-Time Embedded System & MicroCnt Des"
+ },
+ "NANENG 430": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 12,
+  "time": "11:00-12:00",
+  "title": "Principles of Microwave and Waveguides"
+ },
+ "NANENG 431": {
+  "also": [
+   "NANENG 530"
+  ],
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 18,
+  "time": "16:00-17:00",
+  "title": "Computational Photonics / Applied Computational"
+ },
+ "NANENG 435": {
+  "also": [
+   "NANENG 511"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G009-B"
+  ],
+  "sections": 2,
+  "students": 30,
+  "time": "14:45-15:45",
+  "title": "Nanophotonics / Nano Photonics"
+ },
+ "NANENG 436": {
+  "also": [
+   "NANENG 515"
+  ],
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 2,
+  "students": 6,
+  "time": "16:00-17:00",
+  "title": "Advanced MEMS Design and Fabrication Tech"
+ },
+ "NANENG 437": {
+  "also": [
+   "NANENG 514"
+  ],
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 2,
+  "students": 15,
+  "time": "09:45-10:45",
+  "title": "Organic Electronics and Photovoltaics"
+ },
+ "NANENG 439": {
+  "also": [
+   "NANENG 501"
+  ],
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "F006-D"
+  ],
+  "sections": 2,
+  "students": 41,
+  "time": "14:45-15:45",
+  "title": "Advanced Digital ASIC Design"
+ },
+ "NANENG 440": {
+  "also": [
+   "NANENG 523"
+  ],
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 2,
+  "students": 33,
+  "time": "08:30-09:30",
+  "title": "Nanofabrication Vacuum and Equipment Tech"
+ },
+ "NANENG 512": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 50,
+  "time": "12:15-13:15",
+  "title": "Applied Digital Control and Drives"
+ },
+ "NANENG 520": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F006-D"
+  ],
+  "sections": 1,
+  "students": 43,
+  "time": "11:00-12:00",
+  "title": "Advanced Devices"
+ },
+ "NANENG 525": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "16:00-17:00",
+  "title": "Optical MEMS"
+ },
+ "NANOSC 302": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 4,
+  "time": "16:00-17:00",
+  "title": "Modern Characterization Techniques I"
+ },
+ "NANOSC 305": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "16:00-17:00",
+  "title": "Synthesis/Fabrication of Nanomaterials"
+ },
+ "NANOSC 308": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 4,
+  "time": "12:15-13:15",
+  "title": "Introduction to Polymer Science"
+ },
+ "NANOSC 403": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 6,
+  "time": "12:15-13:15",
+  "title": "Special Topics in Nanomedicine"
+ },
+ "NANOSC 405": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F013-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "08:30-09:30",
+  "title": "Nanopharmaceutics"
+ },
+ "PHIL 301": {
+  "also": [
+   "SCH 260"
+  ],
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 5,
+  "students": 84,
+  "time": "14:45-15:45",
+  "title": "Philosophical Thinking"
+ },
+ "PHYS 101": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G025-B"
+  ],
+  "sections": 1,
+  "students": 91,
+  "time": "11:00-12:00",
+  "title": "Introduction to Classical Mechanics"
+ },
+ "PHYS 102": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 1,
+  "time": "16:00-17:00",
+  "title": "Introduction to Electromagnetism"
+ },
+ "PHYS 104": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 132,
+  "time": "08:30-09:30",
+  "title": "Physics 2"
+ },
+ "PHYS 105": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ],
+  "sections": 4,
+  "students": 399,
+  "time": "13:30-14:30",
+  "title": "Intro to Classical Mechanics for Engineers"
+ },
+ "PHYS 126": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 19,
+  "time": "16:00-17:00",
+  "title": "Introduction to Electromagnetism for Eng"
+ },
+ "PHYS 201": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "09:45-10:45",
+  "title": "Thermodynamics, Wave Motion and Optics"
+ },
+ "PHYS 204": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 9,
+  "time": "14:45-15:45",
+  "title": "Analytical Mechanics"
+ },
+ "PHYS 205": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 8,
+  "time": "12:15-13:15",
+  "title": "Introduction to Modern Astrophysics"
+ },
+ "PHYS 224": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 34,
+  "time": "09:45-10:45",
+  "title": "Introduction to Modern Physics for Engin"
+ },
+ "PHYS 311": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 14,
+  "time": "11:00-12:00",
+  "title": "Statistical Mechanics I"
+ },
+ "PHYS 316": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 17,
+  "time": "12:15-13:15",
+  "title": "Mathematical Physics I"
+ },
+ "PHYS 323": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 17,
+  "time": "16:00-17:00",
+  "title": "Quantum Mechanics I"
+ },
+ "PHYS 430": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "08:30-09:30",
+  "title": "Quantum Mechanic III"
+ },
+ "PHYS 453": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 8,
+  "time": "11:00-12:00",
+  "title": "Gravity & General Relativity"
+ },
+ "PHYS 455": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "08:30-09:30",
+  "title": "Mathematical Physics III"
+ },
+ "REE 202": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G019-B"
+  ],
+  "sections": 1,
+  "students": 59,
+  "time": "14:45-15:45",
+  "title": "Mechanics of Materials"
+ },
+ "REE 208": {
+  "also": [
+   "SPC 228"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G038-B"
+  ],
+  "sections": 2,
+  "students": 58,
+  "time": "13:30-14:30",
+  "title": "Engineering Dynamics"
+ },
+ "REE 302": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 39,
+  "time": "08:30-09:30",
+  "title": "Machine Design"
+ },
+ "REE 306": {
+  "also": [
+   "SPC 206"
+  ],
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 14,
+  "time": "16:00-17:00",
+  "title": "Advanced Thermodynamics"
+ },
+ "REE 310": {
+  "also": [
+   "SPC 210"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 2,
+  "students": 15,
+  "time": "16:00-17:00",
+  "title": "Control Systems"
+ },
+ "REE 311": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 11,
+  "time": "08:30-09:30",
+  "title": "Electric Machines"
+ },
+ "REE 320": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 8,
+  "time": "13:30-14:30",
+  "title": "Advanced Control Systems"
+ },
+ "REE 418": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "13:30-14:30",
+  "title": "Aerodynamics of Wind Turbines"
+ },
+ "REE 425": {
+  "also": [
+   "REE 515"
+  ],
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 2,
+  "students": 30,
+  "time": "11:00-12:00",
+  "title": "Thermal Solar Energy"
+ },
+ "REE 429": {
+  "also": [
+   "REE 521"
+  ],
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 25,
+  "time": "11:00-12:00",
+  "title": "Smart Grid"
+ },
+ "REE 432": {
+  "also": [
+   "REE 532"
+  ],
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 2,
+  "students": 33,
+  "time": "12:15-13:15",
+  "title": "Photovoltaic Systems"
+ },
+ "REE 470": {
+  "also": [
+   "SPC 470"
+  ],
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 2,
+  "students": 37,
+  "time": "08:30-09:30",
+  "title": "Computer-Aided Design and Engineering"
+ },
+ "REE 490": {
+  "also": [
+   "REE 534"
+  ],
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 2,
+  "students": 2,
+  "time": "09:45-10:45",
+  "title": "Electric Power Generation, Distribution/ Dis & Ut"
+ },
+ "REE 561": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "13:30-14:30",
+  "title": "Special Topics in Adv Thermal Systems"
+ },
+ "REE 590": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 3,
+  "time": "09:45-10:45",
+  "title": "Sel Topics: Ren Energy for Water Desal"
+ },
+ "SCH 105": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 5,
+  "students": 100,
+  "time": "09:45-10:45",
+  "title": "Critical Thinking"
+ },
+ "SCH 110": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 2,
+  "students": 73,
+  "time": "09:45-10:45",
+  "title": "Creativity and Innovation"
+ },
+ "SCH 163": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 2,
+  "students": 32,
+  "time": "11:00-12:00",
+  "title": "Sustain, Social & Ethical Issues in Comp"
+ },
+ "SCH 210": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 4,
+  "students": 225,
+  "time": "11:00-12:00",
+  "title": "Social Issues"
+ },
+ "SCH 211": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 4,
+  "students": 216,
+  "time": "14:45-15:45",
+  "title": "Professional Ethics and Legal Aspects"
+ },
+ "SCH 244": {
+  "also": [
+   "SCH 281"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 4,
+  "students": 167,
+  "time": "09:45-10:45",
+  "title": "Leadership & Professionalism"
+ },
+ "SCH 258": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 2,
+  "students": 27,
+  "time": "13:30-14:30",
+  "title": "Arabic Literature"
+ },
+ "SCH 261": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F005-F"
+  ],
+  "sections": 3,
+  "students": 295,
+  "time": "12:15-13:15",
+  "title": "Engineering Project Management"
+ },
+ "SCH 262": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 25,
+  "time": "16:00-17:00",
+  "title": "Engineering Project Economics"
+ },
+ "SCH 263": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 2,
+  "students": 70,
+  "time": "14:45-15:45",
+  "title": "Engineering Ethics and Safety"
+ },
+ "SCH 264": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 2,
+  "students": 30,
+  "time": "14:45-15:45",
+  "title": "Intro to Entrepreneurship & Small Mangm"
+ },
+ "SCH 266": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 83,
+  "time": "11:00-12:00",
+  "title": "Sociology"
+ },
+ "SCH 273": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 2,
+  "students": 16,
+  "time": "11:00-12:00",
+  "title": "Cognitive Psychology"
+ },
+ "SCH 275": {
+  "also": [
+   "SCH 280"
+  ],
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G036-B"
+  ],
+  "sections": 2,
+  "students": 37,
+  "time": "11:00-12:00",
+  "title": "The Creative Mind"
+ },
+ "SCH 277": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 2,
+  "students": 16,
+  "time": "12:15-13:15",
+  "title": "Positive Psychology"
+ },
+ "SCH 282": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 1,
+  "time": "13:30-14:30",
+  "title": "Arabic Literature"
+ },
+ "SCH 283": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 21,
+  "time": "11:00-12:00",
+  "title": "Sociology"
+ },
+ "SCH 285": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 2,
+  "time": "12:15-13:15",
+  "title": "Positive Psychology"
+ },
+ "SCH 299": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 1,
+  "time": "14:45-15:45",
+  "title": "Special Topics in Humanities"
+ },
+ "SCHN 305": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 12,
+  "time": "13:30-14:30",
+  "title": "Models and Business Simulations"
+ },
+ "SCHN 310": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 1,
+  "time": "09:45-10:45",
+  "title": "Fundamentals of Supply Chain Management"
+ },
+ "SCHN 401": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 3,
+  "time": "11:00-12:00",
+  "title": "Production Planning Proc & Supp Mgt"
+ },
+ "SCHN 405": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F011-E"
+  ],
+  "sections": 1,
+  "students": 5,
+  "time": "16:00-17:00",
+  "title": "Logistics Management"
+ },
+ "SCHN 410": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 2,
+  "time": "09:45-10:45",
+  "title": "Information Technology in Supply Chains"
+ },
+ "SPC 302": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 28,
+  "time": "13:30-14:30",
+  "title": "Advanced Control Systems"
+ },
+ "SPC 307": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 35,
+  "time": "12:15-13:15",
+  "title": "Aerodynamics"
+ },
+ "SPC 337": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 33,
+  "time": "12:15-13:15",
+  "title": "Gas Dynamics"
+ },
+ "SPC 419": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G005-C"
+  ],
+  "sections": 1,
+  "students": 31,
+  "time": "11:00-12:00",
+  "title": "Turbomachinery"
+ },
+ "SPC 436": {
+  "also": [
+   "SPC 506"
+  ],
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G009-B"
+  ],
+  "sections": 2,
+  "students": 26,
+  "time": "16:00-17:00",
+  "title": "Computational Fluid Dynamics"
+ },
+ "SPC 477": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 27,
+  "time": "13:30-14:30",
+  "title": "Airports and Airlines Management"
+ },
+ "SPC 577": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G035-B"
+  ],
+  "sections": 1,
+  "students": 15,
+  "time": "13:30-14:30",
+  "title": "Airports and Airlines"
+ },
+ "SUST 315": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "F006-D"
+  ],
+  "sections": 1,
+  "students": 44,
+  "time": "14:45-15:45",
+  "title": "Climate Change and Private Business"
+ },
+ "SUST 320": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G009-B"
+  ],
+  "sections": 1,
+  "students": 27,
+  "time": "11:00-12:00",
+  "title": "Feasibility & Sust Analysis for Projects"
+ },
+ "SW 252": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "G011-B"
+  ],
+  "sections": 1,
+  "students": 66,
+  "time": "11:00-12:00",
+  "title": "Embedded Systems"
+ },
+ "SW 301": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G019-B"
+  ],
+  "sections": 1,
+  "students": 65,
+  "time": "09:45-10:45",
+  "title": "Object-Oriented Analysis and Design"
+ },
+ "SW 302": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G006-B"
+  ],
+  "sections": 1,
+  "students": 68,
+  "time": "16:00-17:00",
+  "title": "User Interface Development"
+ },
+ "SW 401": {
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-B"
+  ],
+  "sections": 1,
+  "students": 30,
+  "time": "12:15-13:15",
+  "title": "Parallel and Distributed Computing"
+ },
+ "SW 402": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G033-B"
+  ],
+  "sections": 1,
+  "students": 90,
+  "time": "11:00-12:00",
+  "title": "Software Project Management"
+ },
+ "SW 403": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 8,
+  "time": "11:00-12:00",
+  "title": "AI in Modern Software Engineering"
+ },
+ "SWAPD 301": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F015-D"
+  ],
+  "sections": 1,
+  "students": 44,
+  "time": "16:00-17:00",
+  "title": "Software Systems Requirements Dev"
+ },
+ "SWAPD 401": {
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 25,
+  "time": "08:30-09:30",
+  "title": "Software Testing, Validation, and QA"
+ },
+ "SWAPD 402": {
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 23,
+  "time": "13:30-14:30",
+  "title": "Mobile Application Development"
+ },
+ "SWAPD 451": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 19,
+  "time": "14:45-15:45",
+  "title": "Software Maintenance"
+ },
+ "SWGCG 301": {
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "rooms": [
+   "G007-C"
+  ],
+  "sections": 1,
+  "students": 10,
+  "time": "14:45-15:45",
+  "title": "Computer Graphics and Multimedia Systems"
+ },
+ "SWGCG 401": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F014-E"
+  ],
+  "sections": 1,
+  "students": 7,
+  "time": "11:00-12:00",
+  "title": "Design & Geom Modeling for Vis & Comm"
+ },
+ "SWGCG 402": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "G008-C"
+  ],
+  "sections": 1,
+  "students": 6,
+  "time": "08:30-09:30",
+  "title": "Visual Effects Production"
+ },
+ "SWHCI 301": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 3,
+  "time": "13:30-14:30",
+  "title": "Prototyping Algorithmic Experiences"
+ },
+ "SWHCI 352": {
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "rooms": [
+   "F014-E"
+  ],
+  "sections": 1,
+  "students": 8,
+  "time": "16:00-17:00",
+  "title": "User-Focused Sensing Systems"
+ },
+ "SWHCI 401": {
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "rooms": [
+   "F012-E"
+  ],
+  "sections": 1,
+  "students": 2,
+  "time": "11:00-12:00",
+  "title": "Human Information Processing and AI"
+ },
+ "SWHCI 402": {
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "rooms": [
+   "F013-E"
+  ],
+  "sections": 1,
+  "students": 2,
+  "time": "16:00-17:00",
+  "title": "AI Based Products and Services"
+ }
+}

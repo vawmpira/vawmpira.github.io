@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Midterm Finder · Zewail City · Fall 2026</title>
+<meta name="description" content="Type your student ID to see the date, time and room of every Fall 2026 midterm at Zewail City University, 7–14 November.">
+<meta name="theme-color" content="#e3e3e2">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght,wdth@12..96,400..800,75..100&display=swap">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23161616'/><circle cx='11' cy='16' r='4.5' fill='%23ffffff'/><circle cx='22' cy='16' r='4.5' fill='none' stroke='%23fff' stroke-width='2'/></svg>">
+</head>
+<body>
+<header class="bar">
+  <a class="mark" href="./"><i></i><i class="on"></i><i></i><b>Midterm Finder</b></a>
+  <nav>
+    <button type="button" id="navAll">All exams</button>
+    <button type="button" id="navPrint" data-print>Print</button>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="where">Zewail City University · Fall 2026 · 7–14 November</p>
+    <h1>Fill in your ID.<br>We’ll find your seat.</h1>
+
+    <form id="form" class="sheet" autocomplete="off">
+      <div class="sheet-top"><label class="sheet-label" for="idInput">Student ID</label><button type="button" class="clear" id="clear" hidden aria-label="Clear student ID">&times; Clear</button></div>
+      <div class="bubbles" id="bubbles">
+        <input id="idInput" inputmode="numeric" maxlength="9" spellcheck="false" aria-describedby="idHelp">
+        <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+      </div>
+      <p id="idHelp" class="help">Nine digits, like 202612577. The schedule appears as soon as you finish typing.</p>
+    </form>
+    <p class="tries">Try <button data-id="202612577">202612577</button> <button data-id="202614961">202614961</button> <button data-id="202615174">202615174</button></p>
+  </section>
+
+  <section id="results" aria-live="polite"></section>
+
+  <section id="catalog" hidden>
+    <div class="cat-head">
+      <h2>Every exam, 7–14 November</h2>
+      <p id="catCount"></p>
+    </div>
+    <div class="cat-tools">
+      <input id="catFilter" type="search" placeholder="Filter by code or title" aria-label="Filter courses">
+      <div id="catDays" role="group" aria-label="Filter by day"></div>
+    </div>
+    <div id="catList"></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p id="stats"></p>
+  <p>Built from the official seating charts and exam schedule. Built by <a href="https://github.com/vawmpira">Adam Nael</a>. <a href="https://vawmpira.github.io">(Source)</a></p>
+</footer>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<dialog id="picker" aria-labelledby="pTitle">
+  <div class="p-head">
+    <h3 id="pTitle">Add a course to your timetable</h3>
+    <button type="button" id="pClose" aria-label="Close">Close</button>
+  </div>
+  <input id="pSearch" type="search" placeholder="Code or title, for example SCH 263 or ethics" aria-label="Search courses">
+  <div id="pList"></div>
+</dialog>
+
+<script src="data/students.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

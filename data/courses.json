@@ -1,0 +1,188 @@
+{
+ "CHEM 103": {
+  "title": "Introduction to Chemistry for Engineers",
+  "date": "2026-11-10",
+  "day": "TUESDAY",
+  "time": "16:00-17:00",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ]
+ },
+ "CSAI 101": {
+  "title": "Fundamentals of Programming",
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "time": "13:30-14:30",
+  "also": [
+   "CSAI 111"
+  ],
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B",
+   "G025-B"
+  ]
+ },
+ "CSAI 102": {
+  "title": "Digital Logic and Computer Architecture",
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "time": "11:00-12:00",
+  "also": [
+   "CSAI 112"
+  ],
+  "rooms": [
+   "F005-F",
+   "G006-B",
+   "G011-B"
+  ]
+ },
+ "CSAI 201": {
+  "title": "Data Structures",
+  "date": "2026-11-12",
+  "day": "THURSDAY",
+  "time": "13:30-14:30",
+  "rooms": [
+   "G006-B",
+   "G008-B",
+   "G011-B",
+   "G019-B"
+  ]
+ },
+ "CSAI 202": {
+  "title": "Introduction to Database Systems",
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "time": "13:30-14:30",
+  "rooms": [
+   "F005-F",
+   "F013-E",
+   "F015-D",
+   "G033-B"
+  ]
+ },
+ "CSAI 205": {
+  "title": "Fundamentals of Circuits and Electronics",
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "time": "08:30-09:30",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ]
+ },
+ "CSAI 252": {
+  "title": "Introduction to Computer Networks",
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "time": "08:30-09:30",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B",
+   "G025-B"
+  ]
+ },
+ "CSCI 101": {
+  "title": "Introduction to Computer Science",
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "time": "08:30-09:30",
+  "rooms": [
+   "G008-B",
+   "G033-B",
+   "G035-B",
+   "G036-B",
+   "G038-B"
+  ]
+ },
+ "DSAI 203": {
+  "title": "Data Integration and Visualization",
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "time": "14:45-15:45",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G035-B"
+  ]
+ },
+ "ENGL 004": {
+  "title": "Remedial English 3",
+  "date": "2026-11-08",
+  "day": "SUNDAY",
+  "time": "12:15-13:15",
+  "rooms": [
+   "G006-B",
+   "G008-B",
+   "G011-B",
+   "G019-B",
+   "G025-B"
+  ]
+ },
+ "ENGR 102": {
+  "title": "Introduction to Engineering Design",
+  "date": "2026-11-11",
+  "day": "WEDNESDAY",
+  "time": "16:00-17:00",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ]
+ },
+ "ENGR 121": {
+  "title": "Engineering Drawing",
+  "date": "2026-11-14",
+  "day": "SATURDAY",
+  "time": "14:45-15:45",
+  "rooms": [
+   "G006-B",
+   "G011-B",
+   "G019-B"
+  ]
+ },
+ "MATH 101": {
+  "title": "Calculus I",
+  "date": "2026-11-07",
+  "day": "SATURDAY",
+  "time": "11:00-12:00",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ]
+ },
+ "MATH 103": {
+  "title": "Calculus for Computational Science",
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "time": "08:30-09:30",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ]
+ },
+ "MATH 105": {
+  "title": "Probability and Statistics",
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "time": "12:15-13:15",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ]
+ },
+ "PHYS 105": {
+  "title": "Intro to Classical Mechanics for Engineers",
+  "date": "2026-11-09",
+  "day": "MONDAY",
+  "time": "13:30-14:30",
+  "rooms": [
+   "F005-F",
+   "S006-F"
+  ]
+ }
+}
