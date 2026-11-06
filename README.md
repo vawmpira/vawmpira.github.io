@@ -16,6 +16,7 @@ Zewail City University · 7–14 November 2026
 
 ## What it does
 
+| | |
 |---|---|
 | **Instant lookup** | Fill in nine digits and the schedule opens on its own. No button, no PDFs. |
 | **Week ruler** | Your exams on a day × time grid, so the shape of your week is clear at a glance. |
