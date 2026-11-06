@@ -93,7 +93,7 @@ Course codes come from the file name, because a header can lose its first letter
 
 <div align="center">
 
-Originally created by **[Omar Tarek](https://github.com/oghost2250)** · [o.tarek2250@gmail.com](mailto:o.tarek2250@gmail.com) · Reworked by **[Adam Nael](https://github.com/vawmpira)**
+Originally created by **[Omar Tarek](https://github.com/oghost2250)** · Reworked by **[Adam Nael](https://github.com/vawmpira)**
 
 *Less time searching for your exams, more time preparing for them.*
 
