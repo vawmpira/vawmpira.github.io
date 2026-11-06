@@ -16,7 +16,7 @@ Zewail City University · 7–14 November 2026
 
 ## What it does
 
-| | |
+| **Feature** | **What it does** |
 |---|---|
 | **Instant lookup** | Fill in nine digits and the schedule opens on its own. No button, no PDFs. |
 | **Week ruler** | Your exams on a day × time grid, so the shape of your week is clear at a glance. |
@@ -93,7 +93,7 @@ Course codes come from the file name, because a header can lose its first letter
 
 <div align="center">
 
-Built by **[Adam Nael](https://github.com/vawmpira)** · [vawmpira@gmail.com](mailto:vawmpira@gmail.com)
+Originally created by **[Omar Tarek](https://github.com/oghost2250)** · [o.tarek2250@gmail.com](mailto:o.tarek2250@gmail.com) · Reworked by **[Adam Nael](https://github.com/vawmpira)**
 
 *Less time searching for your exams, more time preparing for them.*
 

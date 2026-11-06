@@ -1,4 +1,5 @@
-/* Midterm Finder — lookup, week ruler, catalogue */
+/* Midterm Finder — originally created by Omar Tarek (oghost2250, o.tarek2250@gmail.com); reworked by Adam Nael (vawmpira). */
+/* Lookup, week ruler, catalogue. */
 (() => {
 "use strict";
 const S = window.STUDENTS || {}, CO = window.COURSES || {}, CAT = window.CATALOG || CO, PR = window.PROGRAMMES || {};
