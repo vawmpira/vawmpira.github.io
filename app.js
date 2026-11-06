@@ -144,7 +144,10 @@ function paint() {
 }
 function submit() {
   const v = input.value.trim();
-  if (v.length === 9) render(v);
+  if (v.length === 9) {
+    render(v);
+    if (matchMedia("(max-width:760px)").matches) { input.blur(); setTimeout(() => $("#results").scrollIntoView({ behavior: "smooth", block: "start" }), 60); }
+  }
   else if (!v) { $("#results").innerHTML = ""; state.id = ""; syncUrl(); }
 }
 input.addEventListener("input", () => { input.value = input.value.replace(/\D/g, "").slice(0, 9); paint(); if (input.value.length === 9) submit(); });

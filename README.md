@@ -1,166 +1,100 @@
-# Midterm Finder — Zewail City University
+<div align="center">
 
-**Your Fall 2026 midterm schedule, all in one place.**
+# Midterm Finder
 
-Enter your 9-digit student ID to instantly find your exams, including their dates, times, rooms, and course details. No digging through PDFs. No manually searching seating charts. Just your schedule.
+**Type your student ID. Get every Fall 2026 midterm: date, time, room.**
 
-**[Open Midterm Finder](https://vawmpira.github.io/)**
+Zewail City University · 7–14 November 2026
 
-Midterm Finder is a lightweight, dependency-free web app built using Zewail City's official Fall 2026 midterm schedule and published seating charts.
+[**Open the site →**](https://vawmpira.github.io/)
 
----
+`241 courses` · `16 seating charts` · `1,838 students` · `7,219 exam records`
 
-## Features
-
-- **Instant student lookup** — Enter your 9-digit student ID and press Enter to retrieve every exam associated with it.
-- **First-year programme defaults** — For 2026 first-year students, the app fills in the two humanities slots (English and ethics/social issues) using the standard programme plan when individual enrolment data is unavailable. These entries are clearly marked as **assumed** and can be corrected directly on the exam card. Corrections are saved for that student ID.
-- **Detailed exam cards** — See the course code, course title, section, date, time, room, and a live countdown showing how many days remain until each exam.
-- **Exam conflict detection** — Automatically identifies overlapping exams so scheduling issues are easy to spot.
-- **Complete exam catalogue** — Browse the official Fall 2026 midterm schedule across all 241 published courses, even without looking up a student ID.
-- **Offline support** — The student dataset is embedded in a plain JavaScript file, so the app can run from a local copy without a server or internet connection.
-
-## How it works
-
-1. Open the website.
-2. Enter your 9-digit student ID.
-3. View your scheduled midterms, organised into individual exam cards.
-4. Check each exam's date, time, section, and assigned room.
-
-For first-year students, any course inferred from the standard programme plan is labelled **assumed**. Use the **Change** option to select the course you're actually registered in. You can also use **+ Add another course** to add an exam manually.
+</div>
 
 ---
 
-## Built with
+## What it does
 
-| Component | Technology | Why it was chosen |
-|---|---|---|
-| Front end | HTML, CSS, and vanilla JavaScript | Lightweight, fast, and dependency-free |
-| Data storage | Local JavaScript and JSON files | Works without a backend and avoids cross-origin loading issues |
-| Hosting | GitHub Pages | Free static hosting with HTTPS |
-| Design | Bricolage Grotesque, custom CSS | A clean, readable interface designed to work well on mobile |
-
-There is no build step, package installation, framework, or external runtime dependency. The app is made to load quickly and remain easy to maintain.
-
-## How the data is collected
-
-The dataset is generated from Zewail City's official midterm seating-chart and attendance-sheet PDFs using a custom Python extraction script.
-
-### Seating-chart extraction
-
-The build script uses **pdfplumber** to extract text from each PDF page while preserving the horizontal position of individual words.
-
-The extraction process works as follows:
-
-1. **Read exam information:** The first page of a seating chart provides the course code, exam date, time, and total student count.
-2. **Identify room assignments:** Room codes are extracted from the chart header and mapped to the seating columns beneath them by comparing their horizontal centres.
-3. **Assign students to rooms:** Each 9-digit student ID is associated with the room assigned to the column where it appears. Section labels, such as `S04`, are extracted alongside the IDs.
-4. **Handle multiple pages:** A repeated room header starts a new seating block. Pages without a new header continue the previous block.
-5. **Process attendance sheets:** Some courses use attendance-sheet PDFs instead of traditional seating grids. These have a separate parser that identifies headings such as `Room G011-B (N students)` and assigns the student IDs on that page to the specified room.
-6. **Resolve updated records:** An attendance sheet takes priority over an older seating chart when both exist for the same course.
-7. **Validate the results:** Extracted student counts are checked against the per-room headcounts printed in the original charts.
-
-### First-year programme data
-
-The file `data/programmes.json` defines each first-year programme, including:
-
-- Required core courses.
-- Expected courses.
-- Optional course groups.
-- Default courses and permitted alternatives.
-
-When this file is available, the build script uses its configuration directly. Otherwise, it falls back to the built-in defaults defined in `tools/build_data.py`.
-
-This allows the app to fill missing first-year humanities enrolments without presenting those assumptions as confirmed registrations.
-
----
-
-## Regenerating the dataset
-
-To rebuild the dataset from the original PDF files, run:
-
-```bash
-python tools/build_data.py ./data "/path/to/folder/containing/the/PDFs"
-```
-
-The script generates three files:
-
-| Output | Purpose |
+| | |
 |---|---|
-| `data/students.json` | Main student-to-exam dataset |
-| `data/courses.json` | Course information, including titles, dates, and times |
-| `data/students.js` | JavaScript-embedded copy of the student dataset used by the website |
+| **Instant lookup** | Fill in nine digits and the schedule opens on its own. No button, no PDFs. |
+| **Week ruler** | Your exams on a day × time grid, so the shape of your week is clear at a glance. |
+| **Exam cards** | Course, section, date, time, room and a live "in N days" countdown. The next exam is highlighted. |
+| **Clash detection** | Overlapping exams are hatched and flagged. |
+| **Copy link** | One tap copies a link that opens straight to your schedule (`?id=…`). |
+| **Clear** | Wipe the ID and start over without reloading. |
+| **All exams** | Browse and filter the full 241-course schedule without an ID. |
+| **Mobile first** | Built for a phone in a corridor. The results scroll into view when your ID is complete. |
+| **No backend** | Static files only. Works on GitHub Pages or from a local copy. |
 
-`students.json` is the source of truth for the generated student data. The JavaScript version allows the site to run locally and on GitHub Pages without requiring a backend.
+## First-year defaults
 
-## Project structure
+Some humanities subjects have no per-student chart, so for **2026 first-years** the site fills the two humanities slots from the standard programme plan. These are tagged **assumed**.
+
+- Wrong one? Use the dropdown on the card to switch (for example `ENGL 003` → `ENGL 004`).
+- Missing a course entirely? **Add a course** adds it by hand.
+- Corrections are saved in your browser for that ID only. Nothing is sent anywhere.
+
+Engineering first-years already have six core courses, so nothing is assumed for them.
+
+## Stack
+
+Plain **HTML, CSS and JavaScript**. No framework, no build step, no runtime dependencies.
+Hosted on **GitHub Pages**. Typeset in **Bricolage Grotesque**.
 
 ```text
-midterm-lookup/
-├── index.html             # Main application page
-├── styles.css             # Styling, layout, and animations
-├── app.js                 # Lookup logic, rendering, catalogue, and themes
+├── index.html          page shell
+├── styles.css          layout, greyscale theme, animations
+├── app.js              lookup, week ruler, catalogue, copy link
 ├── data/
-│   ├── students.js        # Embedded student dataset
-│   ├── students.json      # Main student dataset
-│   ├── courses.json       # Course titles and exam details
-│   ├── catalog.json       # Complete official Fall 2026 schedule
-│   ├── programmes.json    # First-year programme requirements and options
-│   └── manual.json        # Enrolments confirmed outside seating charts
-└── tools/
-    └── build_data.py      # PDF-to-dataset extraction script
+│   ├── students.js     student → exams, embedded for offline use
+│   ├── students.json   source of truth for the above
+│   ├── courses.json    titles, dates, times for charted courses
+│   ├── catalog.json    the full official schedule (241 courses)
+│   ├── programmes.json first-year plans and options
+│   └── manual.json     enrolments confirmed outside the charts
+└── tools/build_data.py PDF → dataset extractor
 ```
 
----
+## Rebuilding the data
 
-## Data coverage and limitations
+```bash
+pip install pdfplumber
+python tools/build_data.py ./data "/path/to/folder/with/the/PDFs"
+```
 
-The app combines information from two sources: individual student seating charts and the university's official course schedule.
+Writes `students.json`, `students.js`, `courses.json` and `catalog.json`. Put `Exam_Schedule.pdf` and the per-course seating charts (`MATH_101.pdf`, …) in the same folder.
 
-Current dataset coverage:
+<details>
+<summary><b>How the extraction works</b></summary>
 
-| Dataset | Coverage |
-|---|---:|
-| Official courses in the full schedule | 241 |
-| Courses with published individual seating charts | 16 |
-| Students identified in those seating charts | 1,838 |
-| Extracted exam records | 7,219 |
+<br>
 
-**Important limitations:**
+1. **Header.** Page one gives the course, date, time and total headcount.
+2. **Rooms.** Room codes are read from the header and matched to seating columns by horizontal position.
+3. **Students.** Each 9-digit ID takes the room of the column it sits in, plus its section label (`S04`).
+4. **Pages.** A repeated room header starts a new block; pages without one continue the last.
+5. **Wide rooms.** A header can be centred over several columns. Unlabelled columns inherit the room on their left (`CSAI 102`: `F005-F` holds 264 students across two).
+6. **Attendance sheets.** A separate parser reads `Room G011-B (N students)` pages and overrides an older chart for the same course.
+7. **Validation.** Every course's extracted count is checked against the headcount printed on its chart. All 16 currently match.
 
-- **Not every course has individual student seating data.** `ENGL 004` has a published seating chart covering 602 students, but `ENGL 003`, `SCH 210`, and `SCH 263` do not currently have individual seating charts available. The app therefore cannot determine which of these courses a particular student is registered in from seating-chart data alone.
-- **Humanities courses may be inferred.** For 2026 first-year students, the app uses `ENGL 003` and `SCH 210` as programme defaults when individual enrolment information is unavailable. These entries are marked **assumed**. Students can change them to `ENGL 004` or `SCH 263` where applicable.
-- **Engineering first-years are handled differently.** Their six core courses already fill the programme requirements, so no humanities courses are automatically added.
-- **Additional courses can be entered manually.** Use **+ Add another course** to include a course that is missing from the available seating-chart data.
-- **A missing student ID does not necessarily mean a missing exam.** It means that the ID was not found in the published individual seating charts included in the dataset. Check the entered digits and consult **All exams** for the complete course schedule.
+Course codes come from the file name, because a header can lose its first letter (`SAI 202`).
 
-### Room-code format
+</details>
 
-Room codes follow the university's building, room, and block format.
+## Limits worth knowing
 
-For example:
-
-`G011-B`
-
-- `G` — Building
-- `011` — Room
-- `B` — Seating block
-
-Some room labels span multiple seating columns. For example, in `CSAI 102`, room `F005-F` accommodates 264 students across two columns. Unlabelled columns inherit the room assignment of the column to their left.
-
-### Course-specific notes
-
-- `CSAI 252` is extracted from its seating chart, which covers 528 students across rooms `G006-B`, `G011-B`, `G019-B`, and `G025-B`.
-- Updated attendance sheets take precedence over older seating charts for the same course.
+- Only **16 of 241** courses publish per-student charts. `ENGL 003`, `SCH 210` and `SCH 263` do not, so those are assumed or added by hand.
+- **ID not found** means it isn't on any published chart, not that you have no exams. Check the digits and use **All exams**.
+- Room codes read **building · room · block**: `G011-B` is building G, room 011, block B.
 
 ---
 
-## Built by
+<div align="center">
 
-**Adam Nael**
+Built by **[Adam Nael](https://github.com/vawmpira)** · [vawmpira@gmail.com](mailto:vawmpira@gmail.com)
 
-- Email: [vawmpira@gmail.com](mailto:vawmpira@gmail.com)
-- GitHub: [@vawmpira](https://github.com/vawmpira)
+*Less time searching for your exams, more time preparing for them.*
 
----
-
-**Midterm Finder — Spend less time searching for your exams and more time preparing for them.**
+</div>

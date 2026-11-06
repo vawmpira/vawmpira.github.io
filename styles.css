@@ -5,7 +5,7 @@
 }
 *{box-sizing:border-box;margin:0}
 html{background:var(--paper);color:var(--ink);font:400 17px/1.5 var(--f);-webkit-text-size-adjust:100%}
-body{min-height:100vh;display:flex;flex-direction:column}
+body{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
 main{flex:1;width:min(1040px,100%);margin:0 auto;padding:0 20px 64px}
 button,input,select{font:inherit;color:inherit}
 button{cursor:pointer}
@@ -144,6 +144,50 @@ dialog::backdrop{background:rgba(21,24,59,.5)}
   .ruler .th{font-size:10px}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+/* ---- mobile ---- */
+html{-webkit-tap-highlight-color:transparent}
+button,select,input{touch-action:manipulation}
+.bar,main,.foot{padding-left:max(20px,env(safe-area-inset-left));padding-right:max(20px,env(safe-area-inset-right))}
+.foot{padding-bottom:max(34px,env(safe-area-inset-bottom))}
+.toast{bottom:max(26px,calc(env(safe-area-inset-bottom) + 14px));max-width:calc(100vw - 32px);text-align:center}
+.mark b,.bar nav button{white-space:nowrap}
+#results{scroll-margin-top:8px}
+@media(max-width:640px){
+  .bar{padding-top:max(12px,env(safe-area-inset-top));padding-bottom:10px}
+  .bar nav{gap:0}.bar nav button{padding:10px 10px;min-height:44px}
+  .mark b{margin-left:6px;font-size:16px}
+  .hero{padding-top:20px}
+  .where{font-size:15px}
+  .sheet{padding:16px 16px 14px;box-shadow:5px 5px 0 var(--ink)}
+  .sheet::before{left:4px}.sheet::after{right:4px}
+  .tries{display:flex;flex-wrap:wrap;align-items:center;gap:4px 16px}
+  .tries button{margin-left:0;padding:10px 0 6px;min-height:44px}
+  .clear{padding:6px 12px 6px 10px;min-height:32px}
+  .res-head{margin-top:20px}
+  .share{margin-left:0;min-height:44px}
+  .ruler .th{font-size:11px}
+  .acts select{max-width:100%;min-height:40px;font-size:16px}
+  .acts button,.add{min-height:44px}
+  .cat-tools input,#pSearch{font-size:16px;min-height:44px}
+  .row{grid-template-columns:auto 1fr;gap:2px 12px;padding:14px 0}
+  .row>span:nth-child(3){grid-column:1/-1;font-size:16px;line-height:1.35}
+  .row .t,.row .r{grid-column:auto}.row .r{grid-column:1/-1;text-align:left}
+  #catDays{flex-wrap:nowrap;overflow-x:auto;margin:0 -20px;padding:2px 20px 6px;scrollbar-width:none}
+  #catDays button{white-space:nowrap;min-height:40px}
+  dialog{width:calc(100% - 16px);max-height:88dvh;padding:16px;box-shadow:5px 5px 0 var(--ink)}
+  #pList button{grid-template-columns:78px 1fr;padding:12px 2px}
+  #pList button span:last-child{grid-column:2;color:var(--soft);font-size:14px}
+}
+@media(max-width:360px){
+  .ruler{grid-template-columns:28px repeat(7,minmax(0,1fr));gap:2px}
+  .ruler button.c{font-size:10px}.ruler button.c small{font-size:13px}
+  .ruler .dh{font-size:11px}.ruler .dh b{font-size:18px}
+  .bubbles{gap:3px}
+  .bar,main,.foot{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right))}
+  .mark{gap:3px}.mark i{width:11px;height:11px}.mark b{font-size:14px;margin-left:4px}
+  .bar nav button{padding:10px 6px;font-size:14px}
+}
+@media(hover:none){.ex:hover .d b,.ruler button.c:hover{transform:none}.share:hover,.clear:hover{background:none;color:inherit}}
 @media print{
   .share,.toast,.clear{display:none}
   .bar nav,.hero,.sheet,.add,.acts,#catalog,.foot,.tries{display:none}
